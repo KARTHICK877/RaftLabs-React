@@ -7,7 +7,7 @@ The **Task Manager Application** is a simple yet powerful tool to help users man
 
 ### Key Additions:
 
-- **Deploying Link**: A placeholder for the deployment link where the application can be accessed live.
+- **Deploying Link**:[here](https://raftlabs-react.netlify.app/)
 - **Presentation Link**: A placeholder for a presentation or demo of the app.
 
 Make sure to update the placeholder links with your actual deployment URL and presentation link!
@@ -33,13 +33,7 @@ Make sure to update the placeholder links with your actual deployment URL and pr
 - **State Management**: Efficient task management with Redux.
 - **Form Validation**: Prevents empty or invalid submissions.
 
-## Screenshots
 
-### Task Creation Form
-![Task Creation Form](./screenshots/task-creation.png)
-
-### Task Editing Form
-![Task Editing Form](./screenshots/task-editing.png)
 
 ## Tech Stack
 
