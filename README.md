@@ -57,6 +57,12 @@ To get a local copy up and running, follow these steps:
 
 Make sure you have **Node.js** installed. You can download it from [here](https://nodejs.org/).
 
+
+Usage
+Adding a Task: Use the "Add Task" button to open a form where you can enter the task details.
+Editing a Task: Click the edit button on any task to modify its details.
+Updating Task Status: You can change the status from "In Progress" to "Completed" using the dropdown.
+
 ### Installation
 
 1. Clone the repository:
