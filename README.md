@@ -57,17 +57,6 @@ To get a local copy up and running, follow these steps:
 
 Make sure you have **Node.js** installed. You can download it from [here](https://nodejs.org/).
 
-task-manager-app/
-├── public/              # Static public assets
-├── src/
-│   ├── components/      # React components
-│   ├── redux/           # Redux slices
-│   ├── App.js           # Main App component
-│   ├── index.js         # Entry point of the application
-│   └── ...
-├── package.json         # Project dependencies and scripts
-└── README.md            # Project documentation
-
 
 Usage
 Adding a Task: Use the "Add Task" button to open a form where you can enter the task details.
