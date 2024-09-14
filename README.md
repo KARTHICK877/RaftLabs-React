@@ -7,7 +7,7 @@ The **Task Manager Application** is a simple yet powerful tool to help users man
 
 ### Key Additions:
 
-- **Deploying Link**:[here](https://raftlabs-react.netlify.app/)
+- **Deploying Link**:  [here](https://raftlabs-react.netlify.app/)
 - **Presentation Link**: A placeholder for a presentation or demo of the app.
 
 Make sure to update the placeholder links with your actual deployment URL and presentation link!
